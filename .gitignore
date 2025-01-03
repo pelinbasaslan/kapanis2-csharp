@@ -1,0 +1,44 @@
+# .NET Core / .NET / Visual Studio
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# ASP.NET Core
+wwwroot/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# VS Code settings folder
+.vscode/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
